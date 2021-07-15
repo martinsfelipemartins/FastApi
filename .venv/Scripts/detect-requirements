@@ -1,0 +1,3 @@
+#!c:\users\felipe\documents\livefastapi\.venv\scripts\python.exe
+from requirements_detector.run import run
+run()
